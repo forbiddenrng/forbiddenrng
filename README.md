@@ -1,5 +1,73 @@
 <h1>Hi 👋, I'm Antoni</h1>
 <p>🔥 Computer Science student 🔥</p>
-<p> 📈Passionate about webdev and ML 📈</p>
+<p> 📈Full stack, backend engineer</p>
 <p> 🎵I believe that computer science is not a music theory 🎵</p>
-<h2>🚀 Languages and Tools I Use</h2><p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a><a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a><a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a><a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a><a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a><a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a><a target="_blank" href="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a><a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a><a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p><h2>⚡️ Where to find me</h2><p><a target="_blank" href="https://www.linkedin.com/in/antoni-gawron-213057302/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=forbiddenrng&show_icons=true&locale=en" alt="forbiddenrng" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forbiddenrng&" alt="forbiddenrng" /></p><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=forbiddenrng&show_icons=true&locale=en&layout=compact" alt="forbiddenrng" /></p><p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=forbiddenrng" alt="forbiddenrng" /></a></p>
+
+<h2>Frontend Stack</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,tailwind,sass" />
+  </a>
+</p>
+<h2>Backend Stack</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nest,express,python,java,spring,postgres,prisma,mongo" />
+  </a>
+</p>
+<h2>Other tools</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,docker,kubernetes" />
+  </a>
+</p>
+
+## Projects - showcase
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/forbiddenrng/projekt-zespolowy/blob/develop/README.md">
+        <img src="./jobmatch_system.jpg"
+             alt="JobMatch.AI"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>JobMatch.AI</b><br/>
+      <sub>Built an AI-powered platform for creating recruitment documents.</sub><br/>
+      🔗 <a href="https://github.com/forbiddenrng/projekt-zespolowy/blob/develop/README.md">Repo</a>
+      <br/>
+      <sub>Tags: AI, Scrape, Job Search</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/forbiddenrng/projekt_wordle/blob/master/README.md">
+        <img src="./project_architecture.png"
+             alt="Wordle Game"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Wordle Game</b><br/>
+      <sub>Worlde game with microservices deployed in Docker and Kubernetes.</sub><br/>
+      🔗 <a href="https://github.com/forbiddenrng/projekt_wordle/blob/master/README.md">Repo</a>
+      <br/>
+      <sub>Tags: Fullstack, DevOps, Docker</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/forbiddenrng/projekt-io/blob/master">
+        <img src="./trzaskowski_emotion_timeline.png"
+             alt="Election emotion analysis"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Election emotions analysis </b><br/>
+      <sub>Analysed emotions and content in tweets about two candidates in 2025 elections</sub><br/>
+      🔗 <a href="https://github.com/forbiddenrng/projekt-io/blob/master/Projekt_IO.pdf">Repo</a>
+      <br/>
+      <sub>Tags: Scrape, AI, Hugging Face, ML</sub>
+    </td>
+  </tr>
+</table>
+
+<h2>⚡️ Where to find me</h2><p>
+
+<a target="_blank" href="https://www.linkedin.com/in/antoni-gawron-213057302/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=forbiddenrng&show_icons=true&locale=en" alt="forbiddenrng" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forbiddenrng&" alt="forbiddenrng" /></p><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=forbiddenrng&show_icons=true&locale=en&layout=compact" alt="forbiddenrng" /></p><p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=forbiddenrng" alt="forbiddenrng" /></a></p>
