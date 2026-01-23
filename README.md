@@ -66,6 +66,20 @@
       <sub>Tags: Scrape, AI, Hugging Face, ML</sub>
     </td>
   </tr>
+  </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/forbiddenrng/albums/blob/main">
+        <img src="./albums.png"
+             alt="Music albums REST API"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>REST API for music albums</b><br/>
+      <sub>Created REST API with MVC using Spring Boot</sub><br/>
+      🔗 <a href="https://github.com/forbiddenrng/albums/blob/main">Repo</a>
+      <br/>
+      <sub>Tags: REST API, Java, Spring Boot, Spring Framework</sub>
+    </td>
 </table>
 
 <h2>⚡️ Where to find me</h2><p>
