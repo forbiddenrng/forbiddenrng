@@ -69,7 +69,7 @@
   </td>
 
   <td align="center" width="33%">
-    <a href="https://github.com/forbiddenrng/albums/blob/main">
+    <a href="https://github.com/forbiddenrng/game-tracker-devops/tree/main">
       <img src="./argocd_running.png"
            alt="Argo CD app"
            style="height:200px; object-fit:cover;"/>
